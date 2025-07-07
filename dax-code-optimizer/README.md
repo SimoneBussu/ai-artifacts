@@ -55,3 +55,10 @@ CALCULATE(
 
 Paste the code and click on "Analyze & Optimize".
 
+Then in the bottom part of the app, in the "Optimized Code" tab, you will see the reviewed code.
+![DAX Code Reviewer Interface](./images/code_result_claude_ai.jpeg)
+
+The other tab "Explaination" contains the reasons behind the review.
+
+And finally the "Best Practice" tab there are the references to the Microsoft documentation.
+Always double check as the reference could be incomplete.
