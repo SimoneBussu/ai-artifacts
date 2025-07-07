@@ -59,6 +59,8 @@ Then in the bottom part of the app, in the "Optimized Code" tab, you will see th
 ![DAX Code Reviewer Interface](./images/code_result_claude_ai.jpeg)
 
 The other tab "Explaination" contains the reasons behind the review.
+![DAX Code Reviewer Interface](./images/explaination_claude_ai.jpeg)
 
-And finally the "Best Practice" tab there are the references to the Microsoft documentation.
+And finally in the "Best Practice" tab there are the references to the Microsoft documentation.
 Always double check as the reference could be incomplete.
+![DAX Code Reviewer Interface](./images/ms_doc_claude_ai.jpeg)
