@@ -41,7 +41,7 @@ By using this tool, you agree with the **Anthropic Privacy Policy**.
 
 # Example
 
-Here is an example. Consider the following measure that want to compute the total sales only for the product category "Electronics".
+Here is an example. Consider the following measure that wants to compute the total sales only for the product category "Electronics".
 
 ```dax
 CALCULATE(
