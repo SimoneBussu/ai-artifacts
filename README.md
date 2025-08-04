@@ -16,3 +16,8 @@ The app provides also an explaination for each chnage made.
 ![DAX Code Optimizer - Homepage](dax-code-optimizer/images/dax_code_optimizer.png)
 
 
+## 🇫🇷 French Learning Assistant
+
+The Artifact is a language learning companion for those studying French. You can input a text in French, select your mother tongue, the level of formality required by the final text, and Claude will analyze it. As output you will have a corrected text with all the sections highlighted that have been corrected, with an explanation for each of them.
+
+**🔗Link:** https://claude.ai/public/artifacts/93d09d6d-da69-43bc-ad60-07dd9f787e26
