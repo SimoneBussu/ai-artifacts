@@ -4,7 +4,7 @@ This Artifact, made with Claude AI, analyzes your Power BI DAX code and provides
 
 My goal was to build a tool that not only would detect inefficient code, but a tool that would also serve an educational purpose.
 
-**🔗Link:** https://claude.ai/public/artifacts/07a472dd-33c8-4c2b-b8e6-b70d086d7395?fullscreen=true
+**🔗Link:** [https://claude.ai/public/artifacts/07a472dd-33c8-4c2b-b8e6-b70d086d7395?fullscreen=true](https://claude.ai/public/artifacts/cd459100-3d7c-4088-8fbc-3b66a2c49f35)
 
 **Caveat:** You need a Claude Account to use the artifact.
 
