@@ -11,7 +11,7 @@ You can find a more detailed description of each artifact in their subfolders.
 This Artifact analyzes your Power BI DAX code and provides optimization suggestions based on Microsoft's official best practices. It helps improve performance, readability, and maintainability of your DAX formulas.
 The app provides also an explaination for each chnage made.
 
-**🔗Link:** https://claude.ai/public/artifacts/07a472dd-33c8-4c2b-b8e6-b70d086d7395?fullscreen=true
+**🔗Link:** [https://claude.ai/public/artifacts/07a472dd-33c8-4c2b-b8e6-b70d086d7395?fullscreen=true](https://claude.ai/public/artifacts/cd459100-3d7c-4088-8fbc-3b66a2c49f35)
 
 ![DAX Code Optimizer - Homepage](dax-code-optimizer/images/dax_code_optimizer.png)
 
